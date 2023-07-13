@@ -1,0 +1,5 @@
+{
+    "dart.devToolsBrowser": "firefox",
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "liveServer.settings.CustomBrowser": "firefox"
+}
